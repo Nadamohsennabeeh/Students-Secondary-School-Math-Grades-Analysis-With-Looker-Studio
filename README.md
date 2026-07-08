@@ -16,3 +16,5 @@ Key Dimensions:
 * Number of Past Class Failures
   
 https://lookerstudio.google.com/reporting/d990f580-30d4-498c-8978-4b7cb824ea1f/page/POpqF
+<img width="814" height="602" alt="WhatsApp Image 2026-03-15 at 11 24 39 AM" src="https://github.com/user-attachments/assets/14d3a75f-3b09-427b-8703-770ce7570b02" />
+<img width="841" height="600" alt="WhatsApp Image 2026-03-15 at 11 10 44 AM" src="https://github.com/user-attachments/assets/52f3f937-9786-40b2-aff5-9583c2e47cb8" />
